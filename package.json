@@ -1,0 +1,19 @@
+{
+  "name": "programacao_dinamica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "ts-node src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.11.24",
+    "chart.js": "^4.4.1",
+    "chartjs-node-canvas": "^4.1.6",
+    "csv-writer": "^1.6.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
