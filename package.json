@@ -10,8 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^20.11.24",
-    "chart.js": "^4.4.1",
-    "chartjs-node-canvas": "^4.1.6",
+    "chartjs-node-canvas": "^5.0.0",
     "csv-writer": "^1.6.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
